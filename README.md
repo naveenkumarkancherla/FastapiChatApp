@@ -9,7 +9,10 @@ This app integrates with **Google Gemini AI** for intelligent responses and supp
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/a7b2fd8c-202c-4acb-abb0-cc78053d06fa
+
+https://github.com/user-attachments/assets/f80ce17e-e3be-496e-b1c1-29db435fc700
+
+
 ---
 
 ## 🚀 Features
