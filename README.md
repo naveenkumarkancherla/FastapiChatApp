@@ -1,28 +1,27 @@
 # 💬 FastAPI Chat App
 
 A simple and powerful **chat application** built using **FastAPI** as the backend.  
-This app integrates with **Google Gemini AI** for intelligent responses and supports  
-real-time chat features with a clean API design.  
+This app integrates with **Google Gemini AI** for intelligent responses and supports real-time chat features with a clean API design.  
 
 👉 **Live Demo**: [https://fastapichatapp-aqiv.onrender.com/](https://fastapichatapp-aqiv.onrender.com/)
 
 ---
+
 ## 🎥 Demo Video
 
-[▶️ Watch Demo](https://github.com/naveenkumarkancherla/FastapiChatApp/raw/main/Screen%20Recording%202025-09-21%20at%2011.03.29%E2%80%AFAM.mov)
+> ⚠️ Note: GitHub does not support inline playback of `.mov` files. Click the link below to view/download the demo.  
+[View Demo Video](https://github.com/user-attachments/assets/a7b2fd8c-202c-4acb-abb0-cc78053d06fa)
+
+> 💡 Tip: For inline playback, consider converting the video to **MP4** or uploading it to **YouTube** and embedding a thumbnail.
+
 ---
-
-
-https://github.com/user-attachments/assets/a7b2fd8c-202c-4acb-abb0-cc78053d06fa
-
-
 
 ## 🚀 Features
 - 🌐 Built with [FastAPI](https://fastapi.tiangolo.com/)  
 - ⚡ High performance and async-ready  
 - 🤖 AI-powered responses using Google Gemini  
 - 📤 File upload support  
-- 🎨 Ready to integrate with any frontend (React, Angular, Ionic, etc.)  
+- 🎨 Ready to integrate with any frontend (React, Angular, Ionic, etc.)
 
 ---
 
