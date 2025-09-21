@@ -9,11 +9,7 @@ This app integrates with **Google Gemini AI** for intelligent responses and supp
 
 ## 🎥 Demo Video
 
-> ⚠️ Note: GitHub does not support inline playback of `.mov` files. Click the link below to view/download the demo.  
-[View Demo Video](https://github.com/user-attachments/assets/a7b2fd8c-202c-4acb-abb0-cc78053d06fa)
-
-> 💡 Tip: For inline playback, consider converting the video to **MP4** or uploading it to **YouTube** and embedding a thumbnail.
-
+https://github.com/user-attachments/assets/a7b2fd8c-202c-4acb-abb0-cc78053d06fa
 ---
 
 ## 🚀 Features
