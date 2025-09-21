@@ -7,6 +7,10 @@ real-time chat features with a clean API design.
 👉 **Live Demo**: [https://fastapichatapp-aqiv.onrender.com/](https://fastapichatapp-aqiv.onrender.com/)
 
 ---
+## 🎥 Demo Video
+
+[▶️ Watch Demo](https://github.com/naveenkumarkancherla/FastapiChatApp/raw/main/Screen%20Recording%202025-09-21%20at%2011.03.29%E2%80%AFAM.mov)
+---
 
 ## 🚀 Features
 - 🌐 Built with [FastAPI](https://fastapi.tiangolo.com/)  
