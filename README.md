@@ -12,6 +12,11 @@ real-time chat features with a clean API design.
 [▶️ Watch Demo](https://github.com/naveenkumarkancherla/FastapiChatApp/raw/main/Screen%20Recording%202025-09-21%20at%2011.03.29%E2%80%AFAM.mov)
 ---
 
+
+https://github.com/user-attachments/assets/a7b2fd8c-202c-4acb-abb0-cc78053d06fa
+
+
+
 ## 🚀 Features
 - 🌐 Built with [FastAPI](https://fastapi.tiangolo.com/)  
 - ⚡ High performance and async-ready  
